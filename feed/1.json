@@ -1,7 +1,16 @@
 {
   "page": 1,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "13",
+      "title": "SABI, MIA BOYKA - Базовый минимум",
+      "description": "SABI, MIA BOYKA - Базовый минимум",
+      "image_url": "https://i.ytimg.com/vi/6PNPx0koe2E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCQSAQ1Hcy8gBIkUMzdU1bHgLTZIQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/MIA_BOYKA_Base_Minimum.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 135
+    },
     {
       "id": "12",
       "title": "Дима Билан - Держи",
