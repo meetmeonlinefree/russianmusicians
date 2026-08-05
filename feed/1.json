@@ -1,7 +1,16 @@
 {
   "page": 1,
-  "count": 5,
+  "count": 6,
   "items": [
+    {
+      "id": "6",
+      "title": "MIA BOYKA - ЭКСПОНАТ",
+      "description": "MIA BOYKA - ЭКСПОНАТ",
+      "image_url": "https://i.ytimg.com/vi/ipDp8Ishe3s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCDDVlL7hij7DJkwk_SlxgRy5viyg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/MIA_BOYKA_Exponat.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 112
+    },
     {
       "id": "5",
       "title": "Егор Крид и Виктория Боня - Надо Ли",
