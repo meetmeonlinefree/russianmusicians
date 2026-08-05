@@ -2,6 +2,17 @@
   "id": "a_dima_bilan",
   "name": "Дима Билан",
   "image_url": "https://yt3.googleusercontent.com/P_JJs56UyBI-2y_pHEP4KGRGYgu6lp-0c5c6Ly2OMr1Na58H2wnUHM_HhIwNM1gN4AQcgfvL=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_dima_bilan",
+      "title": "Дима Билан - Молния",
+      "description": "Дима Билан - Молния",
+      "image_url": "https://i.ytimg.com/vi/SY0iVzSuggo/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGH8gEygTMA8=&rs=AOn4CLDCL8jCfGgz0228WHrVgj1s42v3Hw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Dima_Bilan_Lightning.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 315
+    }
+  ]
 }
