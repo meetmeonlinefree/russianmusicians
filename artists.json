@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T07:58:14.201Z",
+  "updatedAt": "2026-08-05T07:58:56.098Z",
   "artists": [
     {
       "id": "a_klava_koka",
@@ -26,6 +26,11 @@
       "id": "a_sergey_lazarev",
       "name": "Сергей Лазарев",
       "image_url": "https://yt3.googleusercontent.com/Ri-rGQzsZkXG85TdoE0ssuuEZD4_N-EaQsrxrCxfcO-3G9MrcQ918cW6_EB6C2zix1aBIL66b5U=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_xanna",
+      "name": "ХАННА",
+      "image_url": "https://yt3.googleusercontent.com/MB9tGHJW5fSiCApw_6QWVSKkbuv0qp8yddXP_pgqjPN_mp4YN6RKfTec4a2mheRKVhWaWoxg=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
