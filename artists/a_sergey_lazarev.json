@@ -2,6 +2,17 @@
   "id": "a_sergey_lazarev",
   "name": "Сергей Лазарев",
   "image_url": "https://yt3.googleusercontent.com/Ri-rGQzsZkXG85TdoE0ssuuEZD4_N-EaQsrxrCxfcO-3G9MrcQ918cW6_EB6C2zix1aBIL66b5U=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_sergey_lazarev",
+      "title": "Сергей Лазарев - Тут или Там",
+      "description": "Сергей Лазарев - Тут или Там",
+      "image_url": "https://i.ytimg.com/vi/0YkGLpY4eXE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAfMo2N8RxMrUp_b0C9309VcW28vQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Sergey_Lazarev_tut_ili_tam.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 228
+    }
+  ]
 }
