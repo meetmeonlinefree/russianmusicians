@@ -2,7 +2,7 @@
   "id": "a_xanna",
   "name": "ХАННА",
   "image_url": "https://yt3.googleusercontent.com/MB9tGHJW5fSiCApw_6QWVSKkbuv0qp8yddXP_pgqjPN_mp4YN6RKfTec4a2mheRKVhWaWoxg=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/XANNA_france_kiss.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 243
+    },
+    {
+      "id": "4",
+      "artistId": "a_xanna",
+      "title": "ХАННА - Танцуй",
+      "description": "ХАННА - Танцуй",
+      "image_url": "https://i.ytimg.com/vi/XC7HrPy5d80/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAghbAnpFAquBT-3mti2GFxts7pMg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/XANNA_Dance.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 197
     }
   ]
 }
