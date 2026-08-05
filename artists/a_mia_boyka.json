@@ -2,7 +2,7 @@
   "id": "a_mia_boyka",
   "name": "MIA BOYKA",
   "image_url": "https://yt3.googleusercontent.com/JsXM4q9EngsFndDUOiJWYKlPIh1CjmDK9b7NcZfMwAHMAi9HCHLvCFajspgxozVcjXmpL__Uzw=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/MIA_BOYKA_Exponat.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 172
+    },
+    {
+      "id": "2",
+      "artistId": "a_mia_boyka",
+      "title": "SABI, MIA BOYKA - Базовый минимум",
+      "description": "SABI, MIA BOYKA - Базовый минимум",
+      "image_url": "https://i.ytimg.com/vi/6PNPx0koe2E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCQSAQ1Hcy8gBIkUMzdU1bHgLTZIQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/MIA_BOYKA_Base_Minimum.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 135
     }
   ]
 }
