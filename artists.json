@@ -1,11 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T06:42:41.137Z",
+  "updatedAt": "2026-08-05T06:43:29.824Z",
   "artists": [
     {
       "id": "a_klava_koka",
       "name": "Klava Koka",
       "image_url": "https://yt3.googleusercontent.com/dU8BV9J64eBRnLy7BCt-y2zNa88iJUJMaK6wBd_4FsZ9zveZQqp1rS2plKpkN37RmIgyUpLAxQ=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_natali",
+      "name": "Натали",
+      "image_url": "https://yt3.googleusercontent.com/u_DU9KUZfsyD_ouO4TGOl-q0w7rZpR-xvnBtxjRyRFbtg68OF8CINqUaFSPr3HaIO30boEUbiw=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
