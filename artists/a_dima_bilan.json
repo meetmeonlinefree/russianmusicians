@@ -2,7 +2,7 @@
   "id": "a_dima_bilan",
   "name": "Дима Билан",
   "image_url": "https://yt3.googleusercontent.com/P_JJs56UyBI-2y_pHEP4KGRGYgu6lp-0c5c6Ly2OMr1Na58H2wnUHM_HhIwNM1gN4AQcgfvL=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Dima_Bilan_Lightning.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 315
+    },
+    {
+      "id": "2",
+      "artistId": "a_dima_bilan",
+      "title": "Дима Билан - Держи",
+      "description": "Дима Билан - Держи",
+      "image_url": "https://i.ytimg.com/vi/j_LrXZbOAWQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAy7Re7F1ayr7G54sdNt5ri69pFWw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Dima_Bilan_Keep.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 241
     }
   ]
 }
