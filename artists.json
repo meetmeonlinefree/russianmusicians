@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T06:44:53.095Z",
+  "updatedAt": "2026-08-05T07:56:27.794Z",
   "artists": [
     {
       "id": "a_klava_koka",
@@ -11,6 +11,11 @@
       "id": "a_natali",
       "name": "Натали",
       "image_url": "https://yt3.googleusercontent.com/u_DU9KUZfsyD_ouO4TGOl-q0w7rZpR-xvnBtxjRyRFbtg68OF8CINqUaFSPr3HaIO30boEUbiw=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_mia_boyka",
+      "name": "MIA BOYKA",
+      "image_url": "https://yt3.googleusercontent.com/JsXM4q9EngsFndDUOiJWYKlPIh1CjmDK9b7NcZfMwAHMAi9HCHLvCFajspgxozVcjXmpL__Uzw=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
