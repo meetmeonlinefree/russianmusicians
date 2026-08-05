@@ -2,6 +2,17 @@
   "id": "a_xanna",
   "name": "ХАННА",
   "image_url": "https://yt3.googleusercontent.com/MB9tGHJW5fSiCApw_6QWVSKkbuv0qp8yddXP_pgqjPN_mp4YN6RKfTec4a2mheRKVhWaWoxg=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_xanna",
+      "title": "ХАННА - Миша Марвин - Убью тебя",
+      "description": "ХАННА - Миша Марвин - Убью тебя",
+      "image_url": "https://i.ytimg.com/vi/o2cneU3dBM4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCpGDCYcPyw7IydPcRZgHreO_f5JA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/XANNA_Ubyu_tebya_2021.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 222
+    }
+  ]
 }
