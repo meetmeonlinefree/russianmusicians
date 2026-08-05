@@ -1,7 +1,16 @@
 {
   "page": 1,
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "id": "7",
+      "title": "МИША МАРВИН & ХАННА - Французский Поцелуй",
+      "description": "МИША МАРВИН & ХАННА - Французский Поцелуй",
+      "image_url": "https://i.ytimg.com/vi/IYbvwzJMjw4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVMtMXCRD-yfZCJU97V0mHZFtU-w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/XANNA_france_kiss.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 243
+    },
     {
       "id": "6",
       "title": "MIA BOYKA - ЭКСПОНАТ",
