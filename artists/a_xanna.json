@@ -2,7 +2,7 @@
   "id": "a_xanna",
   "name": "ХАННА",
   "image_url": "https://yt3.googleusercontent.com/MB9tGHJW5fSiCApw_6QWVSKkbuv0qp8yddXP_pgqjPN_mp4YN6RKfTec4a2mheRKVhWaWoxg=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/XANNA_Ubyu_tebya_2021.mp4",
       "publishedAt": "2026-08-05",
       "durationSec": 222
+    },
+    {
+      "id": "2",
+      "artistId": "a_xanna",
+      "title": "Миша Марвин, ХАННА - Финал",
+      "description": "Миша Марвин, ХАННА - Финал",
+      "image_url": "https://i.ytimg.com/vi/2VBthlgIUi4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVprwW7sjBYzyf4lUETmw4aSsMzg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/XANNA_final.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 217
     }
   ]
 }
