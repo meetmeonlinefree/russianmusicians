@@ -2,6 +2,17 @@
   "id": "a_klava_koka",
   "name": "Klava Koka",
   "image_url": "https://i.ytimg.com/vi/MvugwoXV-I4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBj9cdKyAuhd-P8LKuAd2zIypg-1Q",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_klava_koka",
+      "title": "Клава Кока - FEDUK - Кабы не было тебя",
+      "description": "Клава Кока - FEDUK - Кабы не было тебя",
+      "image_url": "https://i.ytimg.com/vi/MvugwoXV-I4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBj9cdKyAuhd-P8LKuAd2zIypg-1Q",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Klava_koka_kak_bi_ne_bilo_menya.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 160
+    }
+  ]
 }
