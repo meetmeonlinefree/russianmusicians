@@ -1,7 +1,16 @@
 {
   "page": 1,
-  "count": 7,
+  "count": 8,
   "items": [
+    {
+      "id": "8",
+      "title": "Миша Марвин, ХАННА - Финал",
+      "description": "Миша Марвин, ХАННА - Финал",
+      "image_url": "https://i.ytimg.com/vi/2VBthlgIUi4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVprwW7sjBYzyf4lUETmw4aSsMzg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/XANNA_final.mp4",
+      "publishedAt": "2026-08-05",
+      "durationSec": 217
+    },
     {
       "id": "7",
       "title": "МИША МАРВИН & ХАННА - Французский Поцелуй",
