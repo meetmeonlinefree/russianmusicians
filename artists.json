@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T03:49:53.064Z",
+  "updatedAt": "2026-08-07T03:50:23.583Z",
   "artists": [
     {
       "id": "a_klava_koka",
@@ -41,6 +41,11 @@
       "id": "a_via_ariel",
       "name": "ВИА Ариэль",
       "image_url": "https://i.ytimg.com/vi/fl9-_KhvPRw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALgA4oCDAgAEAEYZSBVKGIwDw==&rs=AOn4CLABXm6YlcXMGO0x8RX3Y6eoQ0sMCQ"
+    },
+    {
+      "id": "a_varvara",
+      "name": "Varvara",
+      "image_url": "https://yt3.googleusercontent.com/ytc/AIdro_mSwL3B3sTzWIQetpbUbONgnfvtEje5h-KbPn-DV9TSXGo=s120-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
