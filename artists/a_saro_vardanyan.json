@@ -2,7 +2,7 @@
   "id": "a_saro_vardanyan",
   "name": "SARO VARDANYAN",
   "image_url": "https://yt3.googleusercontent.com/tT1oyBeKQv3Dsv_u_BFHkqvjqdpuSCHz8J9UYBpkmYvq6CmI7s_rRAt5YCbcfMUe4Cud-WlOtA=s120-c-k-c0x00ffffff-no-rj",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Saro_Vardanyan_Dochenka.mp4",
       "publishedAt": "2026-08-07",
       "durationSec": 203
+    },
+    {
+      "id": "2",
+      "artistId": "a_saro_vardanyan",
+      "title": "Ka-Re - Saro - По твоим следам",
+      "description": "Ka-Re - Saro - По твоим следам",
+      "image_url": "https://i.ytimg.com/vi/SZjLvsfvS78/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTtg35kxp7tveKXm0uyL5bbc__bg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Ka_Re_Saro_Po_tvoim_Sledam.mp4",
+      "publishedAt": "2026-08-07",
+      "durationSec": 206
     }
   ]
 }
