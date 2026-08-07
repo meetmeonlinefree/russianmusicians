@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T03:51:28.770Z",
+  "updatedAt": "2026-08-07T03:55:37.991Z",
   "artists": [
     {
       "id": "a_klava_koka",
@@ -46,6 +46,11 @@
       "id": "a_varvara",
       "name": "Varvara",
       "image_url": "https://yt3.googleusercontent.com/ytc/AIdro_mSwL3B3sTzWIQetpbUbONgnfvtEje5h-KbPn-DV9TSXGo=s120-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_saro_vardanyan",
+      "name": "SARO VARDANYAN",
+      "image_url": "https://yt3.googleusercontent.com/tT1oyBeKQv3Dsv_u_BFHkqvjqdpuSCHz8J9UYBpkmYvq6CmI7s_rRAt5YCbcfMUe4Cud-WlOtA=s120-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
