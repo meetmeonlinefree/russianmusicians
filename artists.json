@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T09:11:24.799Z",
+  "updatedAt": "2026-08-07T03:47:21.600Z",
   "artists": [
     {
       "id": "a_klava_koka",
@@ -36,6 +36,11 @@
       "id": "a_dima_bilan",
       "name": "Дима Билан",
       "image_url": "https://yt3.googleusercontent.com/P_JJs56UyBI-2y_pHEP4KGRGYgu6lp-0c5c6Ly2OMr1Na58H2wnUHM_HhIwNM1gN4AQcgfvL=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_via_ariel",
+      "name": "ВИА Ариэль",
+      "image_url": "https://i.ytimg.com/vi/fl9-_KhvPRw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALgA4oCDAgAEAEYZSBVKGIwDw==&rs=AOn4CLABXm6YlcXMGO0x8RX3Y6eoQ0sMCQ"
     }
   ]
 }
