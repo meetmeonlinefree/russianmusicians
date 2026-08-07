@@ -2,6 +2,17 @@
   "id": "a_saro_vardanyan",
   "name": "SARO VARDANYAN",
   "image_url": "https://yt3.googleusercontent.com/tT1oyBeKQv3Dsv_u_BFHkqvjqdpuSCHz8J9UYBpkmYvq6CmI7s_rRAt5YCbcfMUe4Cud-WlOtA=s120-c-k-c0x00ffffff-no-rj",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_saro_vardanyan",
+      "title": "Saro Vardanyan - Dochenka",
+      "description": "Saro Vardanyan - Dochenka",
+      "image_url": "https://i.ytimg.com/vi/tgIP3g2cmPE/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8Vh79KPvdZqV9Tzxr53lAp8Y19w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Saro_Vardanyan_Dochenka.mp4",
+      "publishedAt": "2026-08-07",
+      "durationSec": 203
+    }
+  ]
 }
