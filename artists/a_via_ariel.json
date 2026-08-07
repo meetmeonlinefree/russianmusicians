@@ -2,6 +2,17 @@
   "id": "a_via_ariel",
   "name": "ВИА Ариэль",
   "image_url": "https://i.ytimg.com/vi/fl9-_KhvPRw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALgA4oCDAgAEAEYZSBVKGIwDw==&rs=AOn4CLABXm6YlcXMGO0x8RX3Y6eoQ0sMCQ",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_via_ariel",
+      "title": "Ариэль - Порушка-Параня - 1983",
+      "description": "Ариэль - Порушка-Параня - 1983",
+      "image_url": "https://i.ytimg.com/vi/jluCP3g_6rA/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHeAoACoAKKAgwIABABGGUgTChDMA8=&rs=AOn4CLA7psC6Ub-lfDomHr_RuEJP60o9AQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/rmvideo/refs/heads/main/video/Ariel_Porushka_Paranya_1983.mp4",
+      "publishedAt": "2026-08-07",
+      "durationSec": 291
+    }
+  ]
 }
